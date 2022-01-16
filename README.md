@@ -1,0 +1,2 @@
+# leftonread
+dictionary API
